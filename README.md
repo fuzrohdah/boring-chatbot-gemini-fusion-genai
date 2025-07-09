@@ -63,5 +63,4 @@ project/
 ## 📀 Notes
 
 * Works with Gemini 1.5 Flash or Pro.
-* Uses `chat.send_message()` with full conversation memory.
 * Ensure your API key has access via Google AI Studio or Console.
